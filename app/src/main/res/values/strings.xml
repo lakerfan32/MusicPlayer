@@ -1,0 +1,16 @@
+<resources>
+    <!-- Title for the application. -->
+    <string name="app_name">MusicPlayer</string>
+
+    <!-- Category name for genres -->
+    <string name="category_genres">Genres</string>
+
+    <!-- Category name for moods -->
+    <string name="category_moods">Moods</string>
+
+    <!-- Category name for artists -->
+    <string name="category_artists">Artists</string>
+
+    <!-- Category name for all songs -->
+    <string name="category_songs">All Songs</string>
+</resources>
