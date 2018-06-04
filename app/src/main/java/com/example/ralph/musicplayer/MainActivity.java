@@ -12,13 +12,17 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        // Set the content of the activity to use the activity_main.xml layout file
+        /**
+         * Set the content of the activity to use the activity_main.xml layout file
+         */
         setContentView(R.layout.activity_main);
 
-        // Find the View that shows the genres category
+        /**
+         * Find the View that shows the genres category and
+         * Set a click listener on that View
+         */
         TextView genres = (TextView) findViewById(R.id.genres);
 
-        // Set a click listener on that View
         genres.setOnClickListener(new View.OnClickListener() {
             // The code in this method will be executed when the genres category is clicked on.
             @Override
@@ -31,10 +35,12 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        // Find the View that shows the moods category
+        /**
+         * Find the View that shows the moods category and
+         * Set a click listener on that View
+         */
         TextView moods = (TextView) findViewById(R.id.moods);
 
-        // Set a click listener on that View
         moods.setOnClickListener(new View.OnClickListener() {
             // The code in this method will be executed when the moods category is clicked on.
             @Override
@@ -47,10 +53,12 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        // Find the View that shows the artists category
+        /**
+         * Find the View that shows the artists category and
+         * Set a click listener on that View
+         */
         TextView artists = (TextView) findViewById(R.id.artists);
 
-        // Set a click listener on that View
         artists.setOnClickListener(new View.OnClickListener() {
             // The code in this method will be executed when the artists category is clicked on.
             @Override
@@ -63,10 +71,12 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        // Find the View that shows the all songs category
+        /**
+         * Find the View that shows the all songs category and
+         * Set a click listener on that View
+         */
         TextView songs = (TextView) findViewById(R.id.songs);
 
-        // Set a click listener on that View
         songs.setOnClickListener(new View.OnClickListener() {
             // The code in this method will be executed when the all songs category is clicked on.
             @Override
