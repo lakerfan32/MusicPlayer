@@ -21,10 +21,10 @@ public class GenresActivity extends AppCompatActivity {
         ArrayList<String> genres = new ArrayList<String>();
         genres.add("Alternative/Indie");
         genres.add("Dance");
-        genres.add("New Wave");
         genres.add("Oldies");
         genres.add("Pop");
         genres.add("Rap/Hip-Hop");
+        genres.add("Rock");
 
         /**
          * Create an {@link ArrayAdapter}, whose data source is a list of Strings. The

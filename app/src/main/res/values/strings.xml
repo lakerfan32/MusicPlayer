@@ -12,5 +12,5 @@
     <string name="category_artists">Artists</string>
 
     <!-- Category name for all songs -->
-    <string name="category_songs">All Songs</string>
+    <string name="category_songs">Songs</string>
 </resources>
