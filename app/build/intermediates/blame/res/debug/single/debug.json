@@ -108,6 +108,10 @@
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_meister.png.flat",
+        "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable\\music_meister.png"
+    },
+    {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
@@ -526,6 +530,10 @@
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_logo.png.flat",
+        "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable\\app_logo.png"
     },
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -1404,12 +1412,12 @@
         "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_seek_thumb.xml.flat",
-        "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\color-v23\\abc_tint_seek_thumb.xml"
-    },
-    {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
         "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_seek_thumb.xml.flat",
+        "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\color-v23\\abc_tint_seek_thumb.xml"
     },
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",

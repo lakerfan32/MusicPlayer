@@ -36,5 +36,10 @@
             android:background="@color/category_songs"
             android:text="@string/category_songs" />
 
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/app_logo"/>
+
     </LinearLayout>
 </ScrollView>

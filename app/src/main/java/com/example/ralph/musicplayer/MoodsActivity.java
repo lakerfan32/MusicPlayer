@@ -16,7 +16,7 @@ public class MoodsActivity extends AppCompatActivity {
         setContentView(R.layout.activity_moods);
 
         /**
-         * Create an array list of genre categories
+         * Create an array list of mood categories
          */
         ArrayList<String> moods = new ArrayList<String>();
         moods.add("80s Dance Party");
