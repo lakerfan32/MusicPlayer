@@ -26,6 +26,11 @@ public class Music {
     private static final int NO_IMAGE_PROVIDED = -1;
 
     /**
+     * Audio resource ID for the song
+     */
+    private int mAudioResourceId;
+
+    /**
      * Create a new Music object.
      * @param songName is the name of the song
      * @param artistName is the name of the artist
@@ -40,11 +45,13 @@ public class Music {
      * @param songName is the name of the song
      * @param artistName is the name of the artist
      * @param imageResourceId is the drawable resource ID for the image associated with the album cover
+     * @param audioResourceId is the resource ID for the audio file associated with the song
      */
-    public Music(String songName, String artistName, int imageResourceId) {
+    public Music(String songName, String artistName, int imageResourceId, int audioResourceId) {
         mSongName = songName;
         mArtistName = artistName;
         mImageResourceId = imageResourceId;
+        mAudioResourceId = audioResourceId;
     }
 
     /**
@@ -73,5 +80,10 @@ public class Music {
     public boolean hasImage()  {
         return mImageResourceId != NO_IMAGE_PROVIDED;
     }
+
+    /**
+     * Return the audio resource ID of the song
+     */
+    public int getAudioResourceId() {return mAudioResourceId;}
 
 }
