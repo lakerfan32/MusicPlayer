@@ -55,7 +55,7 @@
                 android:value=".MainActivity" />
         </activity>
         <activity
-            android:name="com.example.ralph.musicplayer.SongsActivity"
+            android:name="com.example.ralph.musicplayer.MusicActivity"
             android:label="@string/category_songs"
             android:parentActivityName="com.example.ralph.musicplayer.MainActivity" >
 

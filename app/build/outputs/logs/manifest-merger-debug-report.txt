@@ -112,7 +112,7 @@ ADDED from M:\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
 		ADDED from M:\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:39:13-53
 	android:name
 		ADDED from M:\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:38:13-44
-activity#com.example.ralph.musicplayer.SongsActivity
+activity#com.example.ralph.musicplayer.MusicActivity
 ADDED from M:\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:46:9-54:20
 	android:parentActivityName
 		ADDED from M:\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:49:13-55

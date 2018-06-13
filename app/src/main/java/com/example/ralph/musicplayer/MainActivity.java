@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 // Create a new intent to open the {@link AllSongsActivity}
-                Intent songsIntent = new Intent(MainActivity.this, SongsActivity.class);
+                Intent songsIntent = new Intent(MainActivity.this, MusicActivity.class);
 
                 // Start the new activity
                 startActivity(songsIntent);

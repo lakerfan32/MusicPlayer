@@ -2,10 +2,10 @@ package com.example.ralph.musicplayer;
 
 /**
  * Created by Ralph on 6/7/2018.
- * Creating a Custom class called Song.java.  Objects of this class will have 2 properties:
- * songName, artistName
+ * Creating a Custom class called Music.java.  Objects of this class will have 3 properties:
+ * songName, artistName, imageResourceId
  */
-public class Song {
+public class Music {
 
     /**
      * Name of the Song
@@ -18,27 +18,27 @@ public class Song {
     private String mArtistName;
 
     /**
-     * Image resource ID for the song
+     * Image resource ID for the album cover
      */
     private int mImageResourceId;
 
     /**
-     * Create a new Song object.
+     * Create a new Music object.
      * @param songName is the name of the song
      * @param artistName is the name of the artist
      */
-    public Song(String songName, String artistName) {
+    public Music(String songName, String artistName) {
         mSongName = songName;
         mArtistName = artistName;
     }
 
     /**
-     * Create a secondary Song object with a third input.
+     * Create a secondary Music object with a third input.
      * @param songName is the name of the song
      * @param artistName is the name of the artist
-     * @param imageResourceId is the drawable resource ID for the image associated with the Song
+     * @param imageResourceId is the drawable resource ID for the image associated with the album cover
      */
-    public Song(String songName, String artistName, int imageResourceId) {
+    public Music(String songName, String artistName, int imageResourceId) {
         mSongName = songName;
         mArtistName = artistName;
         mImageResourceId = imageResourceId;
@@ -59,7 +59,7 @@ public class Song {
     }
 
     /**
-     * Return the image resource ID of the song
+     * Return the image resource ID of the album cover
      */
     public int getImageResourceId() { return mImageResourceId; }
 

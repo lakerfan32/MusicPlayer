@@ -17,22 +17,17 @@ public class ArtistsActivity extends AppCompatActivity {
         /**
          * Create an array list of artist categories
          */
-        ArrayList<String> artists = new ArrayList<String>();
-        artists.add("Capital Cities");
-        artists.add("Coldplay");
-        artists.add("Depeche Mode");
-        artists.add("DMX");
-        artists.add("Echosmith");
-        artists.add("Eminem");
-        artists.add("Foster The People");
-        artists.add("Jason Mraz");
-        artists.add("Justin Timberlake");
-        artists.add("Lenny Kravitz");
-        artists.add("Missy Elliott");
-        artists.add("Paramore");
-        artists.add("Tears For Fears");
-        artists.add("The Shins");
-        artists.add("Van Halen");
+        ArrayList<Music> music = new ArrayList<Music>();
+        music.add(new Music("","Capital Cities"));
+        music.add(new Music("", "Coldplay"));
+        music.add(new Music("", "Depeche Mode"));
+        music.add(new Music("", "DMX"));
+        music.add(new Music("", "Echosmith"));
+        music.add(new Music("", "Foster The People"));
+        music.add(new Music("", "Jason Mraz"));
+        music.add(new Music("", "Missy Elliott"));
+        music.add(new Music("", "Paramore"));
+        music.add(new Music("", "Van Halen"));
 
         /**
          * Create an {@link ArrayAdapter}, whose data source is a list of Strings. The
@@ -41,7 +36,7 @@ public class ArtistsActivity extends AppCompatActivity {
          * This list item layout contains a single {@link TextView}, which the adapter will set to
          * display a single word.
          */
-        ArrayAdapter<String> itemsAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, artists);
+        MusicAdapter adapter = new MusicAdapter(this, music, R.color.category_artists);
 
         /**
          * Find the {@link ListView} object in the view hierarchy of the {@link Activity}.
@@ -56,6 +51,6 @@ public class ArtistsActivity extends AppCompatActivity {
          * Do this by calling the setAdapter method on the {@link ListView} object and pass in
          * 1 argument, which is the {@link ArrayAdapter} with the variable name itemsAdapter.
          */
-        listView.setAdapter(itemsAdapter);
+        listView.setAdapter(adapter);
     }
 }

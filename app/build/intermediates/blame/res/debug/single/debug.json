@@ -76,12 +76,12 @@
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\color\\abc_tint_default.xml"
     },
     {
-        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
-        "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_vector_test.xml.flat",
@@ -140,24 +140,24 @@
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\b70943674039204039e5c4c5887b3c89\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
-        "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_abc_control_background_material.xml.flat",
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_view_list_nav_layout.xml.flat",
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_songs.xml.flat",
@@ -188,12 +188,12 @@
         "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\talking_dreams.png"
     },
     {
-        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_dark.xml.flat",
-        "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\color\\abc_hint_foreground_material_dark.xml"
-    },
-    {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_v.png.flat",
         "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable-mdpi\\v.png"
+    },
+    {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_dark.xml.flat",
+        "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_light.xml.flat",
@@ -244,12 +244,16 @@
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
-        "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_brand_new_eyes.png.flat",
+        "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable-xhdpi\\brand_new_eyes.png"
     },
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_tick_mark_material.xml.flat",
@@ -272,16 +276,16 @@
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
-        "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_menu_overflow_material.xml.flat",
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
-        "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -300,16 +304,16 @@
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
-        "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\05a86666a5c86724d12d31e327e0de12\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\b70943674039204039e5c4c5887b3c89\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\05a86666a5c86724d12d31e327e0de12\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -352,12 +356,16 @@
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
-        "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_love_is_a_four_letter_word.png.flat",
+        "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\love_is_a_four_letter_word.png"
     },
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -386,6 +394,10 @@
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_love_is_a_four_letter_word.png.flat",
+        "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable-mdpi\\love_is_a_four_letter_word.png"
     },
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
@@ -460,12 +472,12 @@
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
-        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
-        "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -552,6 +564,10 @@
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\05a86666a5c86724d12d31e327e0de12\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_torches.png.flat",
+        "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable-xhdpi\\torches.png"
+    },
+    {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
@@ -562,6 +578,10 @@
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_torches.png.flat",
+        "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable-mdpi\\torches.png"
     },
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_logo.png.flat",
@@ -584,12 +604,16 @@
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_love_is_a_four_letter_word.png.flat",
+        "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable-xxxhdpi\\love_is_a_four_letter_word.png"
     },
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -804,8 +828,16 @@
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_brand_new_eyes.png.flat",
+        "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\brand_new_eyes.png"
+    },
+    {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ghost_stories.png.flat",
+        "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\ghost_stories.png"
     },
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -964,6 +996,14 @@
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ghost_stories.png.flat",
+        "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable-mdpi\\ghost_stories.png"
+    },
+    {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_brand_new_eyes.png.flat",
+        "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable-mdpi\\brand_new_eyes.png"
+    },
+    {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_edit_text_material.xml.flat",
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable\\abc_edit_text_material.xml"
     },
@@ -1002,6 +1042,10 @@
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_brand_new_eyes.png.flat",
+        "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\brand_new_eyes.png"
     },
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -1080,6 +1124,10 @@
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_love_is_a_four_letter_word.png.flat",
+        "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\love_is_a_four_letter_word.png"
+    },
+    {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_default.xml.flat",
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\color-v23\\abc_tint_default.xml"
     },
@@ -1150,6 +1198,10 @@
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_torches.png.flat",
+        "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\torches.png"
     },
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
@@ -1230,6 +1282,10 @@
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_love_is_a_four_letter_word.png.flat",
+        "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable-xhdpi\\love_is_a_four_letter_word.png"
     },
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_borderless_material.xml.flat",
@@ -1330,6 +1386,10 @@
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_brand_new_eyes.png.flat",
+        "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable-xxxhdpi\\brand_new_eyes.png"
     },
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
@@ -1524,6 +1584,10 @@
         "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\talking_dreams.png"
     },
     {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ghost_stories.png.flat",
+        "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable-xxxhdpi\\ghost_stories.png"
+    },
+    {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
@@ -1568,6 +1632,10 @@
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ghost_stories.png.flat",
+        "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\ghost_stories.png"
+    },
+    {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\05a86666a5c86724d12d31e327e0de12\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
@@ -1598,6 +1666,10 @@
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_light.xml.flat",
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ghost_stories.png.flat",
+        "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable-xhdpi\\ghost_stories.png"
     },
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -1712,6 +1784,10 @@
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\b70943674039204039e5c4c5887b3c89\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_torches.png.flat",
+        "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\torches.png"
+    },
+    {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
@@ -1726,6 +1802,10 @@
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_dark.xml.flat",
         "source": "C:\\Users\\Ralph\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1c0fdec04969afbe84574da5f1bd9769\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_torches.png.flat",
+        "source": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable-xxxhdpi\\torches.png"
     },
     {
         "merged": "M:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",

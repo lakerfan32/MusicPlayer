@@ -18,13 +18,13 @@ public class MoodsActivity extends AppCompatActivity {
         /**
          * Create an array list of mood categories
          */
-        ArrayList<String> moods = new ArrayList<String>();
-        moods.add("80s Dance Party");
-        moods.add("Chillout Tunes");
-        moods.add("Deep Focus");
-        moods.add("Morning Indie Pop");
-        moods.add("Rebel Yelling");
-        moods.add("Sexy Saturdays");
+        ArrayList<Music> music = new ArrayList<Music>();
+        music.add(new Music("","80s Dance Party"));
+        music.add(new Music("", "Chillout Tunes"));
+        music.add(new Music("", "Deep Focus"));
+        music.add(new Music("", "Morning Indie Pop"));
+        music.add(new Music("", "Rebel Yelling"));
+        music.add(new Music("", "Sexy Saturdays"));
 
         /**
          * Create an {@link ArrayAdapter}, whose data source is a list of Strings. The
@@ -33,7 +33,7 @@ public class MoodsActivity extends AppCompatActivity {
          * This list item layout contains a single {@link TextView}, which the adapter will set to
          * display a single word.
          */
-        ArrayAdapter<String> itemsAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, moods);
+        MusicAdapter adapter = new MusicAdapter(this, music, R.color.category_moods);
 
         /**
          * Find the {@link ListView} object in the view hierarchy of the {@link Activity}.
@@ -48,6 +48,6 @@ public class MoodsActivity extends AppCompatActivity {
          * Do this by calling the setAdapter method on the {@link ListView} object and pass in
          * 1 argument, which is the {@link ArrayAdapter} with the variable name itemsAdapter.
          */
-        listView.setAdapter(itemsAdapter);
+        listView.setAdapter(adapter);
     }
 }

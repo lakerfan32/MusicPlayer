@@ -2,13 +2,13 @@
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="23"
-    build-mode="COLD"
+    build-mode="HOT_WARM"
     density="560dpi"
     format="10"
     plugin-version="3.0.1"
-    timestamp="1528861948884"
+    timestamp="1528908086266"
     token="6246197691104571503"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
@@ -24,8 +24,8 @@
         duration="0" />
 
     <artifact
-        location="M:\AndroidStudioProjects\MusicPlayer\app\build\outputs\apk\debug\app-debug.apk"
-        type="SPLIT_MAIN" />
+        location="M:\AndroidStudioProjects\MusicPlayer\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
         build-mode="FULL"
@@ -70,20 +70,39 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1528860122343"
-        verifier="COLD_SWAP_REQUESTED" >
+        timestamp="1528905337264"
+        verifier="MANIFEST_FILE_CHANGE" >
         <artifact
-            location="M:\AndroidStudioProjects\MusicPlayer\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="M:\AndroidStudioProjects\MusicPlayer\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="M:\AndroidStudioProjects\MusicPlayer\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="M:\AndroidStudioProjects\MusicPlayer\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="M:\AndroidStudioProjects\MusicPlayer\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1528861948884"
-        verifier="COLD_SWAP_REQUESTED" >
+        timestamp="1528907804109"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="M:\AndroidStudioProjects\MusicPlayer\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
         <artifact
             location="M:\AndroidStudioProjects\MusicPlayer\app\build\outputs\apk\debug\app-debug.apk"
             type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1528908086266"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="M:\AndroidStudioProjects\MusicPlayer\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

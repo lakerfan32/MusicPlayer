@@ -1586,7 +1586,7 @@ public final class R {
      * <tr><td>barrier</td><td>2</td><td></td></tr>
      * <tr><td>chains</td><td>4</td><td></td></tr>
      * <tr><td>dimensions</td><td>8</td><td></td></tr>
-     * <tr><td>direct</td><td>1</td><td>for now only direct & barriers</td></tr>
+     * <tr><td>direct</td><td>1</td><td></td></tr>
      * <tr><td>none</td><td>0</td><td></td></tr>
      * <tr><td>standard</td><td>3</td><td></td></tr>
      * </table>
@@ -2808,27 +2808,31 @@ public final class R {
     public static final int app_logo=0x7f060054;
     public static final int app_logo_old=0x7f060055;
     public static final int best_of_def_leppard=0x7f060056;
-    public static final int ic_launcher_background=0x7f060057;
-    public static final int ic_launcher_foreground=0x7f060058;
-    public static final int notification_action_background=0x7f060059;
-    public static final int notification_bg=0x7f06005a;
-    public static final int notification_bg_low=0x7f06005b;
-    public static final int notification_bg_low_normal=0x7f06005c;
-    public static final int notification_bg_low_pressed=0x7f06005d;
-    public static final int notification_bg_normal=0x7f06005e;
-    public static final int notification_bg_normal_pressed=0x7f06005f;
-    public static final int notification_icon_background=0x7f060060;
-    public static final int notification_template_icon_bg=0x7f060061;
-    public static final int notification_template_icon_low_bg=0x7f060062;
-    public static final int notification_tile_bg=0x7f060063;
-    public static final int notify_panel_notification_icon_bg=0x7f060064;
-    public static final int run_dmc_greatest_hits=0x7f060065;
-    public static final int talking_dreams=0x7f060066;
-    public static final int the_best_of_the_monkees=0x7f060067;
-    public static final int tooltip_frame_dark=0x7f060068;
-    public static final int tooltip_frame_light=0x7f060069;
-    public static final int v=0x7f06006a;
-    public static final int we_the_generation=0x7f06006b;
+    public static final int brand_new_eyes=0x7f060057;
+    public static final int ghost_stories=0x7f060058;
+    public static final int ic_launcher_background=0x7f060059;
+    public static final int ic_launcher_foreground=0x7f06005a;
+    public static final int love_is_a_four_letter_word=0x7f06005b;
+    public static final int notification_action_background=0x7f06005c;
+    public static final int notification_bg=0x7f06005d;
+    public static final int notification_bg_low=0x7f06005e;
+    public static final int notification_bg_low_normal=0x7f06005f;
+    public static final int notification_bg_low_pressed=0x7f060060;
+    public static final int notification_bg_normal=0x7f060061;
+    public static final int notification_bg_normal_pressed=0x7f060062;
+    public static final int notification_icon_background=0x7f060063;
+    public static final int notification_template_icon_bg=0x7f060064;
+    public static final int notification_template_icon_low_bg=0x7f060065;
+    public static final int notification_tile_bg=0x7f060066;
+    public static final int notify_panel_notification_icon_bg=0x7f060067;
+    public static final int run_dmc_greatest_hits=0x7f060068;
+    public static final int talking_dreams=0x7f060069;
+    public static final int the_best_of_the_monkees=0x7f06006a;
+    public static final int tooltip_frame_dark=0x7f06006b;
+    public static final int tooltip_frame_light=0x7f06006c;
+    public static final int torches=0x7f06006d;
+    public static final int v=0x7f06006e;
+    public static final int we_the_generation=0x7f06006f;
   }
   public static final class id {
     public static final int ALT=0x7f070000;
@@ -7531,7 +7535,7 @@ public final class R {
      * <tr><td>barrier</td><td>2</td><td></td></tr>
      * <tr><td>chains</td><td>4</td><td></td></tr>
      * <tr><td>dimensions</td><td>8</td><td></td></tr>
-     * <tr><td>direct</td><td>1</td><td>for now only direct & barriers</td></tr>
+     * <tr><td>direct</td><td>1</td><td></td></tr>
      * <tr><td>none</td><td>0</td><td></td></tr>
      * <tr><td>standard</td><td>3</td><td></td></tr>
      * </table>

@@ -18,13 +18,13 @@ public class GenresActivity extends AppCompatActivity {
         /**
          * Create an array list of genre categories
          */
-        ArrayList<String> genres = new ArrayList<String>();
-        genres.add("Alternative/Indie");
-        genres.add("Dance");
-        genres.add("Oldies");
-        genres.add("Pop");
-        genres.add("Rap/Hip-Hop");
-        genres.add("Rock");
+        ArrayList<Music> music = new ArrayList<Music>();
+        music.add(new Music("","Alternative/Indie"));
+        music.add(new Music("", "Dance"));
+        music.add(new Music("", "oldies"));
+        music.add(new Music("", "Pop"));
+        music.add(new Music("", "Rap/Hip-Hop"));
+        music.add(new Music("","Rock"));
 
         /**
          * Create an {@link ArrayAdapter}, whose data source is a list of Strings. The
@@ -33,7 +33,7 @@ public class GenresActivity extends AppCompatActivity {
          * This list item layout contains a single {@link TextView}, which the adapter will set to
          * display a single word.
          */
-        ArrayAdapter<String> itemsAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, genres);
+        MusicAdapter adapter = new MusicAdapter(this, music, R.color.category_genres);
 
         /**
          * Find the {@link ListView} object in the view hierarchy of the {@link Activity}.
@@ -48,6 +48,6 @@ public class GenresActivity extends AppCompatActivity {
          * Do this by calling the setAdapter method on the {@link ListView} object and pass in
          * 1 argument, which is the {@link ArrayAdapter} with the variable name itemsAdapter.
          */
-        listView.setAdapter(itemsAdapter);
+        listView.setAdapter(adapter);
     }
 }

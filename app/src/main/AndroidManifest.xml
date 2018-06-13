@@ -44,7 +44,7 @@
                 android:value=".MainActivity"/>
         </activity>
         <activity
-            android:name=".SongsActivity"
+            android:name=".MusicActivity"
             android:label="@string/category_songs"
             android:parentActivityName=".MainActivity">
             <!-- Parent activity meta-data to support 4.0 and lower -->
