@@ -2,30 +2,34 @@
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="23"
-    build-mode="HOT_WARM"
+    build-mode="COLD"
     density="560dpi"
     format="10"
+    ir-eligibility="FIELD_ADDED"
     plugin-version="3.0.1"
-    timestamp="1528908086266"
+    timestamp="1528911587835"
     token="6246197691104571503"
-    verifier="COMPATIBLE" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="233" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="19" />
     <task
         name="verifier"
-        duration="0" />
+        duration="4" />
 
     <artifact
-        location="M:\AndroidStudioProjects\MusicPlayer\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
+        location="M:\AndroidStudioProjects\MusicPlayer\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="M:\AndroidStudioProjects\MusicPlayer\app\build\outputs\apk\debug\app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
@@ -87,22 +91,15 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1528907804109"
-        verifier="R_CLASS_CHANGE" >
+        ir-eligibility="FIELD_ADDED"
+        timestamp="1528911587835"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="M:\AndroidStudioProjects\MusicPlayer\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
             location="M:\AndroidStudioProjects\MusicPlayer\app\build\outputs\apk\debug\app-debug.apk"
             type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1528908086266"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="M:\AndroidStudioProjects\MusicPlayer\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
     </build>
 
 </instant-run>

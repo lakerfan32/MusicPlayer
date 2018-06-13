@@ -59,10 +59,23 @@ public class MusicAdapter extends ArrayAdapter<Music> {
         // Get the artist name from the currentSong object and set this text on the name artistTextView
         artistTextView.setText(currentSong.getArtistName());
 
-        // Find the ImageView in the list_item.xml layout with the ID image
+        /**
+         * Find the ImageView in the list_item.xml layout with the ID image
+         * and check if ImageView visibility is needed
+         */
         ImageView imageView = (ImageView) listItemView.findViewById(R.id.image);
-        // Set the ImageView to the image resource specified in the current Music
-        imageView.setImageResource(currentSong.getImageResourceId());
+
+        if(currentSong.hasImage()) {
+            // Set the ImageView to the image resource specified in the current Music
+            imageView.setImageResource(currentSong.getImageResourceId());
+
+            // Make sure the view is visible by default
+            imageView.setVisibility(View.VISIBLE);
+        }
+        else {
+            // Otherwise, hide the ImageView (set visibility to GONE)
+            imageView.setVisibility(View.GONE);
+        }
 
         // Set the theme color for the list item
         View textContainer = listItemView.findViewById(R.id.text_container);

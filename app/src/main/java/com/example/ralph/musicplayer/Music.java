@@ -19,8 +19,11 @@ public class Music {
 
     /**
      * Image resource ID for the album cover
+     * and check whether list has image associated with it
      */
-    private int mImageResourceId;
+    private int mImageResourceId = NO_IMAGE_PROVIDED;
+
+    private static final int NO_IMAGE_PROVIDED = -1;
 
     /**
      * Create a new Music object.
@@ -62,5 +65,13 @@ public class Music {
      * Return the image resource ID of the album cover
      */
     public int getImageResourceId() { return mImageResourceId; }
+
+    /**
+     * Return whether or not there is an image associated with the list
+     * by checking TRUE or FALSE
+     */
+    public boolean hasImage()  {
+        return mImageResourceId != NO_IMAGE_PROVIDED;
+    }
 
 }
