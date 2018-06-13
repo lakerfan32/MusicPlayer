@@ -18,6 +18,11 @@ public class Song {
     private String mArtistName;
 
     /**
+     * Image resource ID for the song
+     */
+    private int mImageResourceId;
+
+    /**
      * Create a new Song object.
      * @param songName is the name of the song
      * @param artistName is the name of the artist
@@ -25,6 +30,18 @@ public class Song {
     public Song(String songName, String artistName) {
         mSongName = songName;
         mArtistName = artistName;
+    }
+
+    /**
+     * Create a secondary Song object with a third input.
+     * @param songName is the name of the song
+     * @param artistName is the name of the artist
+     * @param imageResourceId is the drawable resource ID for the image associated with the Song
+     */
+    public Song(String songName, String artistName, int imageResourceId) {
+        mSongName = songName;
+        mArtistName = artistName;
+        mImageResourceId = imageResourceId;
     }
 
     /**
@@ -40,4 +57,10 @@ public class Song {
     public String getArtistName() {
         return mArtistName;
     }
+
+    /**
+     * Return the image resource ID of the song
+     */
+    public int getImageResourceId() { return mImageResourceId; }
+
 }

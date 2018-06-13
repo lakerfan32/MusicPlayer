@@ -18,12 +18,12 @@ public class SongsActivity extends AppCompatActivity {
          * Create an array list of songs and artists
          */
         ArrayList<Song> songs = new ArrayList<Song>();
-        songs.add(new Song("Come Together","Echosmith"));
-        songs.add(new Song("Lay It All On Me","Rudimental"));
-        songs.add(new Song("Hysteria","Def Leppard"));
-        songs.add(new Song("Daydream Believer","The Monkees"));
-        songs.add(new Song("Sugar","Maroon 5"));
-        songs.add(new Song("King Of Rock","RUN-DMC"));
+        songs.add(new Song("Come Together","Echosmith", R.drawable.talking_dreams));
+        songs.add(new Song("Lay It All On Me","Rudimental", R.drawable.we_the_generation));
+        songs.add(new Song("Hysteria","Def Leppard", R.drawable.best_of_def_leppard));
+        songs.add(new Song("Daydream Believer","The Monkees", R.drawable.the_best_of_the_monkees));
+        songs.add(new Song("Sugar","Maroon 5", R.drawable.v));
+        songs.add(new Song("King Of Rock","RUN-DMC", R.drawable.run_dmc_greatest_hits));
 
         /**
          * Create an {@link ArrayAdapter}, whose data source is a list of Strings. The

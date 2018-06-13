@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import java.util.ArrayList;
@@ -37,26 +38,23 @@ public class SongAdapter extends ArrayAdapter<Song> {
                     R.layout.list_item, parent, false);
         }
 
-        // Get the {@link AndroidFlavor} object located at this position in the list
+        // Get the {@link Song} object located at this position in the list
         Song currentSong = getItem(position);
 
-        // Find the TextView in the list_item.xml layout with the ID version_name
+        // Find the TextView in the list_item.xml layout with the ID songs text view
         TextView songTextView = (TextView) listItemView.findViewById(R.id.songs_text_view);
-        // Get the version name from the current AndroidFlavor object and
-        // set this text on the name TextView
+        // Get the song name from the current currentSong object and set this text on the name songTextView
         songTextView.setText(currentSong.getSongName());
 
-        // Find the TextView in the list_item.xml layout with the ID version_number
+        // Find the TextView in the list_item.xml layout with the ID artists text view
         TextView artistTextView = (TextView) listItemView.findViewById(R.id.artists_text_view);
-        // Get the version number from the current AndroidFlavor object and
-        // set this text on the number TextView
+        // Get the artist name from the currentSong object and set this text on the name artistTextView
         artistTextView.setText(currentSong.getArtistName());
 
-        // Find the ImageView in the list_item.xml layout with the ID list_item_icon
-        //ImageView iconView = (ImageView) listItemView.findViewById(R.id.list_item_icon);
-        // Get the image resource ID from the current AndroidFlavor object and
-        // set the image to iconView
-        //iconView.setImageResource(currentAndroidFlavor.getImageResourceId());
+        // Find the ImageView in the list_item.xml layout with the ID image
+        ImageView imageView = (ImageView) listItemView.findViewById(R.id.image);
+        // Set the ImageView to the image resource specified in the current Song
+        imageView.setImageResource(currentSong.getImageResourceId());
 
         // Return the whole list item layout (containing 2 TextViews and an ImageView)
         // so that it can be shown in the ListView
