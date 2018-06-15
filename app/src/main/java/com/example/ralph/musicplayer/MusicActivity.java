@@ -3,9 +3,9 @@ package com.example.ralph.musicplayer;
 import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 import java.util.ArrayList;
@@ -44,26 +44,25 @@ public class MusicActivity extends AppCompatActivity {
                 R.drawable.love_is_a_four_letter_word, R.raw.the_world_as_i_see_it));
 
         /**
-         * Create an {@link ArrayAdapter}, whose data source is a list of Strings. The
-         * adapter knows how to create layouts for each item in the list, using the
-         * simple_list_item_1.xml layout resource defined in the Android framework.
-         * This list item layout contains a single {@link TextView}, which the adapter will set to
-         * display a single song.
+         * Create an {@link MusicAdapter}, whose data source is a list of Strings. The
+         * adapter knows how to create layouts for each item in the list.
+         * This list item layout contains a single {@link ListView}, which the adapter will set to
+         * display a single item.
          */
         MusicAdapter adapter = new MusicAdapter(this, music, R.color.category_songs);
 
         /**
          * Find the {@link ListView} object in the view hierarchy of the {@link Activity}.
          * There should be a {@link ListView} with the view ID called list, which is declared in the
-         * activity_songs.xml layout file.
+         * list_item.xml layout file.
          */
         ListView listView = (ListView) findViewById(R.id.list);
 
         /**
-         * Make the {@link ListView} use the {@link ArrayAdapter} we created above, so that the
-         * {@link ListView} will display list items for each song in the list of songs.
+         * Make the {@link ListView} use the {@link MusicAdapter} we created above, so that the
+         * {@link ListView} will display list items for each song in the category list.
          * Do this by calling the setAdapter method on the {@link ListView} object and pass in
-         * 1 argument, which is the {@link ArrayAdapter} with the variable name itemsAdapter.
+         * 1 argument, with the variable name adapter.
          */
         listView.setAdapter(adapter);
 
@@ -85,4 +84,20 @@ public class MusicActivity extends AppCompatActivity {
         });
 
     }
+
+    /**
+     * Stops currently playing music and exits the songs activity
+     *
+     */
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case android.R.id.home:
+                if (mMediaPlayer != null) mMediaPlayer.stop();
+                finish();
+                return true;
+        }
+        return super.onOptionsItemSelected(item);
+    }
+
 }

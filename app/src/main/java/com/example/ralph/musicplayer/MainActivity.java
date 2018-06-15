@@ -81,12 +81,13 @@ public class MainActivity extends AppCompatActivity {
             // The code in this method will be executed when the all songs category is clicked on.
             @Override
             public void onClick(View view) {
-                // Create a new intent to open the {@link AllSongsActivity}
+                // Create a new intent to open the {@link MusicActivity}
                 Intent songsIntent = new Intent(MainActivity.this, MusicActivity.class);
 
                 // Start the new activity
                 startActivity(songsIntent);
             }
         });
+
     }
 }

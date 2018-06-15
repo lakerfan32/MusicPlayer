@@ -21,22 +21,26 @@
         android:paddingLeft="16dp"
         android:background="@color/category_songs">
 
-    <TextView
-        android:id="@+id/songs_text_view"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:textAppearanceMedium"
-        android:textColor="@android:color/white"
-        android:textStyle="bold"
-        tools:text="Come Together"/>
+        <TextView
+            android:id="@+id/songs_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"/>
 
-    <TextView
-        android:id="@+id/artists_text_view"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:textAppearanceMedium"
-        android:textColor="@android:color/white"
-        tools:text="Echosmith"/>
+        <TextView
+            android:id="@+id/artists_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:textColor="@android:color/white"/>
+
+        <ImageView
+            android:id="@+id/play_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/play_button" />
 
     </LinearLayout>
 

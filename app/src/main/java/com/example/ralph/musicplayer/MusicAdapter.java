@@ -29,10 +29,6 @@ public class MusicAdapter extends ArrayAdapter<Music> {
      * @param colorResourceId is the background color corresponding to each category list
      */
     public MusicAdapter(Activity context, ArrayList<Music> songs, int colorResourceId) {
-        // Here, we initialize the ArrayAdapter's internal storage for the context and the list.
-        // the second argument is used when the ArrayAdapter is populating a single TextView.
-        // Because this is a custom adapter for two TextViews and an ImageView, the adapter is not
-        // going to use this second argument, so it can be any value. Here, we used 0.
         super(context, 0, songs);
         mColorResourceId = colorResourceId;
     }
@@ -66,7 +62,7 @@ public class MusicAdapter extends ArrayAdapter<Music> {
         ImageView imageView = (ImageView) listItemView.findViewById(R.id.image);
 
         if(currentSong.hasImage()) {
-            // Set the ImageView to the image resource specified in the current Music
+            // If an image is available, display the provided image based on the resource ID
             imageView.setImageResource(currentSong.getImageResourceId());
 
             // Make sure the view is visible by default
@@ -77,7 +73,7 @@ public class MusicAdapter extends ArrayAdapter<Music> {
             imageView.setVisibility(View.GONE);
         }
 
-        // Set the theme color for the list item
+        // Set the theme color for the list item based on the category
         View textContainer = listItemView.findViewById(R.id.text_container);
         // Find the color that the resource ID maps to
         int color = ContextCompat.getColor(getContext(), mColorResourceId);
