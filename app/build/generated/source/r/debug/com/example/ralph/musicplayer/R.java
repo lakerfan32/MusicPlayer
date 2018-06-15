@@ -2825,16 +2825,17 @@ public final class R {
     public static final int notification_template_icon_low_bg=0x7f060065;
     public static final int notification_tile_bg=0x7f060066;
     public static final int notify_panel_notification_icon_bg=0x7f060067;
-    public static final int play_button=0x7f060068;
-    public static final int run_dmc_greatest_hits=0x7f060069;
-    public static final int stop_button=0x7f06006a;
-    public static final int talking_dreams=0x7f06006b;
-    public static final int the_best_of_the_monkees=0x7f06006c;
-    public static final int tooltip_frame_dark=0x7f06006d;
-    public static final int tooltip_frame_light=0x7f06006e;
-    public static final int torches=0x7f06006f;
-    public static final int v=0x7f060070;
-    public static final int we_the_generation=0x7f060071;
+    public static final int pause_button=0x7f060068;
+    public static final int play_button=0x7f060069;
+    public static final int run_dmc_greatest_hits=0x7f06006a;
+    public static final int stop_button=0x7f06006b;
+    public static final int talking_dreams=0x7f06006c;
+    public static final int the_best_of_the_monkees=0x7f06006d;
+    public static final int tooltip_frame_dark=0x7f06006e;
+    public static final int tooltip_frame_light=0x7f06006f;
+    public static final int torches=0x7f060070;
+    public static final int v=0x7f060071;
+    public static final int we_the_generation=0x7f060072;
   }
   public static final class id {
     public static final int ALT=0x7f070000;

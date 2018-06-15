@@ -2,13 +2,13 @@
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="23"
-    build-mode="COLD"
+    build-mode="HOT_WARM"
     density="560dpi"
     format="10"
     plugin-version="3.0.1"
-    timestamp="1529040577393"
+    timestamp="1529042896589"
     token="6246197691104571503"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
@@ -22,6 +22,10 @@
     <task
         name="verifier"
         duration="0" />
+
+    <artifact
+        location="M:\AndroidStudioProjects\MusicPlayer\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
         build-mode="FULL"
@@ -70,9 +74,6 @@
         timestamp="1529038874455"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="M:\AndroidStudioProjects\MusicPlayer\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
             location="M:\AndroidStudioProjects\MusicPlayer\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
@@ -87,19 +88,26 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="METHOD_ADDED"
-        timestamp="1529040400409"
+        ir-eligibility="R_CLASS_CHANGE"
+        timestamp="1529042582177"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="M:\AndroidStudioProjects\MusicPlayer\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="M:\AndroidStudioProjects\MusicPlayer\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
             location="M:\AndroidStudioProjects\MusicPlayer\app\build\outputs\apk\debug\app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
     <build
-        build-mode="COLD"
-        timestamp="1529040577393"
-        verifier="COLD_SWAP_REQUESTED" />
+        build-mode="HOT_WARM"
+        timestamp="1529042896589"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="M:\AndroidStudioProjects\MusicPlayer\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
 
 </instant-run>
