@@ -87,7 +87,6 @@ public class MusicActivity extends AppCompatActivity {
 
     /**
      * Stops currently playing music and exits the songs activity
-     *
      */
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
@@ -99,5 +98,4 @@ public class MusicActivity extends AppCompatActivity {
         }
         return super.onOptionsItemSelected(item);
     }
-
 }

@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
         /**
          * Find the View that shows the genres category and
-         * Set a click listener on that View
+         * set a click listener on that View
          */
         TextView genres = (TextView) findViewById(R.id.genres);
 
@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
 
         /**
          * Find the View that shows the moods category and
-         * Set a click listener on that View
+         * set a click listener on that View
          */
         TextView moods = (TextView) findViewById(R.id.moods);
 
@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
 
         /**
          * Find the View that shows the artists category and
-         * Set a click listener on that View
+         * set a click listener on that View
          */
         TextView artists = (TextView) findViewById(R.id.artists);
 
@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity {
 
         /**
          * Find the View that shows the all songs category and
-         * Set a click listener on that View
+         * set a click listener on that View
          */
         TextView songs = (TextView) findViewById(R.id.songs);
 

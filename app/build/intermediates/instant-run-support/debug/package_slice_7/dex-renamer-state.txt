@@ -1,4 +1,4 @@
-#Fri Jun 15 01:01:27 EDT 2018
-base.0=M\:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+#Fri Jun 15 22:05:49 EDT 2018
+base.0=M\:\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
 path.0=classes.dex
 renamed.0=classes.dex

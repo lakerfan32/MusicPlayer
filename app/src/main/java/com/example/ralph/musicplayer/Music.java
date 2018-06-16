@@ -8,17 +8,17 @@ package com.example.ralph.musicplayer;
 public class Music {
 
     /**
-     * Name of the Song
+     * Declare Name of the Song
      */
     private String mSongName;
 
     /**
-     * Name of the Artist
+     * Declare Name of the Artist
      */
     private String mArtistName;
 
     /**
-     * Image resource ID for the album cover
+     * Declare Image resource ID for the album cover
      * and check whether list has image associated with it
      */
     private int mImageResourceId = NO_IMAGE_PROVIDED;
@@ -26,7 +26,7 @@ public class Music {
     private static final int NO_IMAGE_PROVIDED = -1;
 
     /**
-     * Audio resource ID for the song
+     * Declare Audio resource ID for the song
      */
     private int mAudioResourceId;
 
