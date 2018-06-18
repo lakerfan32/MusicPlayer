@@ -2,11 +2,19 @@
 <resources>
     <!-- Height of each list item -->
     <dimen name="list_item_height">88dp</dimen>
+
+    <!-- List item Margin dimensions -->
+    <dimen name="list_item_top_margin">16dp</dimen>
+    <dimen name="list_item_left_margin">8dp</dimen>
+    <dimen name="list_item_right_margin">8dp</dimen>
+
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- Miscellaneous Padding -->
+
+    <!-- List item Padding dimensions -->
     <dimen name="image_top_padding">36dp</dimen>
     <dimen name="container_left_padding">16dp</dimen>
+    <dimen name="button_top_padding">6dp</dimen>
 
 </resources>

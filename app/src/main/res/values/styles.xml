@@ -5,7 +5,7 @@
         <item name="colorPrimaryDark">@color/primary_dark_color</item>
     </style>
 
-    <!-- Style for music controls category -->
+    <!-- Style for main music controls category -->
     <style name="CategoryStyle">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">@dimen/list_item_height</item>
